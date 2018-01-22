@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Flua-cjson.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Flua-cjson?ref=badge_shield)
+
 Name
 ====
 
@@ -193,3 +195,7 @@ cjson.encode(t) -- {"my_array":[]} properly re-encoded as an array
 ```
 
 [Back to TOC](#table-of-contents)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Flua-cjson.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Flua-cjson?ref=badge_large)
